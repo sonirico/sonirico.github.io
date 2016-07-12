@@ -40,7 +40,8 @@ stuyding languages, hobbyistly though.
 
 ### Contact me
 
-[{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
+Drop me a line whatever the matter at: [{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
+
 
 [1]: https://es.wikipedia.org/wiki/Ponferrada "Ponferrada"
 [2]: https://github.com/rubendelblanco 
