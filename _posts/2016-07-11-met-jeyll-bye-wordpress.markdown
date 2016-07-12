@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Met Jekyll. Bye WordPress."
+title:  "Met Jekyll. Bye, WordPress."
 date:   2016-07-11 17:43:23 +0200
 categories: blogging
 tags: jekyll markdown github meta
@@ -15,8 +15,8 @@ have to create a new branch within your repo which, accordingly populated, will 
 just a good-looking piece of HTML content. The how, lies on markdown and Jekyll.
 
 **[Markdown][markdown-site]** is a powerful text-to-HTML conversion tool. Instead of writing large
-and boring fragments of HTML tags, users have to memorize certains formats to
-write down along your content. On the other hand, [Jekyll][jekyll-docs] is a blog-aware Ruby-based 
+and boring fragments of HTML code, users have to memorize certains formats to
+write down along their content. On the other hand, [Jekyll][jekyll-docs] is a blog-aware Ruby-based 
 static site generator. To summarize, it gets text files as input and generates
 and entire folder-structured website.
 
