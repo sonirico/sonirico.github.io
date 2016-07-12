@@ -27,8 +27,13 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            {% for my_page in site.pages %}
+              {% if my_page.in_nav %}
+                <a href="{{ my_page.url | prepend: site.baseurl }}">
+                  {{ my_page.title }}
+                </a>
+              {% endif %}
+            {% endfor %}
           </nav>
         </header>
       </div>

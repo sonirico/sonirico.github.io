@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+in_nav: true
 ---
 
 ## TODO: Add projects
