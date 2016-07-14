@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Met Jekyll. Bye, WordPress."
+title:  "Met Jekyll. Sayonara, WordPress."
 date:   2016-07-11 17:43:23 +0200
 categories: blogging
 tags: jekyll markdown github meta
