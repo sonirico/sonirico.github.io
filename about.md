@@ -35,8 +35,8 @@ enhacements have rendered such labor obsolete, so poverty levels have hazardousl
 increased during the last decades. `//TODO: Add donate button`. 
 
 Besides from requesting help to others pitifully, I am a passionated long-distance
-runner and a former gamer - I like to fall back into sometimes, though. Finally, I am currently
-stuyding languages, hobbyistly though.
+runner and a former gamer - although I rather enjoy falling back into, sometimes. 
+Finally, I am currently stuyding languages, hobbyistly though.
 
 ### Contact me
 
