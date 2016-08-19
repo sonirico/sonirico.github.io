@@ -42,6 +42,9 @@ Finally, I am currently stuyding languages, hobbyistly though.
 
 Drop me a line whatever the matter at: [{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
 
+- GPG public key [here]({{site.baseurl}}/public.key) or
+- My GPG fingerprint **0x7B4A3B9DA2FD1F50**
+
 
 [1]: https://es.wikipedia.org/wiki/Ponferrada "Ponferrada"
 [2]: https://github.com/rubendelblanco 
