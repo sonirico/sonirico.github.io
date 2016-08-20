@@ -24,8 +24,8 @@ Forget about databases and CMSs like [WordPress][wordpress-site] or [Joomla!][jo
 suited for small and medium blogging platforms with standard numbers of concurrent
 users, where content rapidly changes and extended features are required. Nevertheless, 
 in regards to personal blogs, landing pages or even portfolios, maintaining both systems feels
-out of the box somehow. So much effort for just a simple website which will be, 
-lets say, updated twice a month? And what about outdated plugins and other security
+out of the box somehow. So much effort for just a simple website which will be updated, 
+lets say, twice a month? And what about outdated plugins and other security
 concerns?
 
 That is why I deicided -temporary, at least- to switch from WordPress to Jekyll 
