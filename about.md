@@ -40,6 +40,7 @@ Finally, I am currently stuyding languages, hobbyistly though.
 
 ### Contact me
 
+<a name="contact" ></a>
 Drop me a line whatever the matter at: [{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
 
 - GPG public key [here]({{site.baseurl}}/public.key) or
